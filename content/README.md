@@ -2,7 +2,7 @@
 
 ## ¿Qué es What The Hack?
 
-WhatTheHack es una iniciativa de Código Facilito auspiciada por Microsoft, donde enfrentaremos retos de diversas temáticas trabajando en equipos de 3 a 5 personas. La idea es resolver desafíos técnicos utilizando tecnología. Esto no es un taller; son retos que describen tareas a un nivel general para que puedas completarlas por tu cuenta. No son laboratorios paso a paso. Lo que buscamos es que tengas una experiencia de aprendizaje colaborativa, donde puedas compartir con tus compañeros de equipo. 
+Hola. WhatTheHack es una iniciativa de Código Facilito auspiciada por Microsoft, donde enfrentaremos retos de diversas temáticas trabajando en equipos de 3 a 5 personas. La idea es resolver desafíos técnicos utilizando tecnología. Esto no es un taller; son retos que describen tareas a un nivel general para que puedas completarlas por tu cuenta. No son laboratorios paso a paso. Lo que buscamos es que tengas una experiencia de aprendizaje colaborativa, donde puedas compartir con tus compañeros de equipo. 
 
 Contarás con coaches y facilitadores que, en caso de que encuentres dificultades con alguna pregunta, podrán ayudarte a resolverla. No estás solo para enfrentar estos desafíos, tienes a tu equipo y a todos nosotros para ayudarte a superar los retos que presentamos. 
 
